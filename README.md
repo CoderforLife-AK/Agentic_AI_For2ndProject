@@ -213,5 +213,6 @@ Retrieval-Augmented Generation (RAG)
 
 Information Retrieval
 
-📜 License
+📜 **License**
+
 This project is developed for educational and research purposes.
