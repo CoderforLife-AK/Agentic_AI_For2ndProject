@@ -5,10 +5,10 @@ https://huggingface.co/datasets/CShorten/ML-ArXiv-Papers
 Machine Learning research papers containing titles and abstracts.
 
 **Columns Used**
-title
+title,
 abstract
 
 **Preprocessing**
-Missing value handling
-Title and abstract merged into a single text field
+Missing value handling,
+Title and abstract merged into a single text field,
 Embeddings generated using Sentence Transformers
